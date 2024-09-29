@@ -1,6 +1,6 @@
 ## Choose your own adventure ##
 
-'''mermaid
+```mermaid
 flowchart TD;
     A[Begin your journey];
     A --> B[Stay in bed];
@@ -25,4 +25,4 @@ flowchart TD;
     S --> U[You get to work, but something seems different... you're seeing things you never seen before];
     T --> V[To be continued];
     U --> V;
-'''
+```
